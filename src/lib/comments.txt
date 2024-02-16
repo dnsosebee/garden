@@ -9,8 +9,3 @@
 </CardGrid>
 
 
-{/* ## All the approved riddles
-
-New riddles are added to the top of the list.
-
-- [The Egg Drop Riddle](/riddles/egg-drop) */}

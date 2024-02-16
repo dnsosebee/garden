@@ -30,6 +30,15 @@ export default defineConfig({
           ],
         },
         {
+          label: "Assorted",
+          items: [
+            {
+              label: "Tommy Sosebee",
+              link: "/tommy-sosebee/",
+            },
+          ],
+        },
+        {
           label: "Reference",
           autogenerate: {
             directory: "reference",
