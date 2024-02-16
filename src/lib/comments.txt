@@ -1,0 +1,16 @@
+<CardGrid >
+
+{" "}
+
+<LinkCard title="How to Take Smart Notes" href="/notes/how-to-take-smart-notes">
+  A summary of the book by Sönke Ahrens.
+</LinkCard>
+
+</CardGrid>
+
+
+{/* ## All the approved riddles
+
+New riddles are added to the top of the list.
+
+- [The Egg Drop Riddle](/riddles/egg-drop) */}
