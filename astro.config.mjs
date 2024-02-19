@@ -24,6 +24,10 @@ export default defineConfig({
               link: "/riddles/",
             },
             {
+              label: "The Two Doors Riddle",
+              link: "/riddles/two-doors/",
+            },
+            {
               label: "The Egg Drop Riddle",
               link: "/riddles/egg-drop/",
             },
