@@ -17,21 +17,27 @@ export default defineConfig({
       sidebar: [
         {
           label: "Riddles",
-          items: [
-            // Each item here is one entry in the navigation menu.
-            {
-              label: "List of All Approved Riddles",
-              link: "/riddles/",
-            },
-            {
-              label: "The Two Doors Riddle",
-              link: "/riddles/two-doors/",
-            },
-            {
-              label: "The Egg Drop Riddle",
-              link: "/riddles/egg-drop/",
-            },
-          ],
+          autogenerate: {
+            directory: "riddles",
+          },
+          // items: [
+          //   // Each item here is one entry in the navigation menu.
+          //   {
+          //     label: "List of All Approved Riddles",
+          //     link: "/riddles/",
+          //   },
+          //   {
+          //     label: "The "
+          //   },
+          //   {
+          //     label: "The Two Doors Riddle",
+          //     link: "/riddles/two-doors/",
+          //   },
+          //   {
+          //     label: "The Egg Drop Riddle",
+          //     link: "/riddles/egg-drop/",
+          //   },
+          // ],
         },
         {
           label: "Assorted",
