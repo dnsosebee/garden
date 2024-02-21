@@ -3,15 +3,7 @@ title: The Two Doors Riddle
 description: A logic riddle about choosing which door to enter.
 ---
 
-import { Image } from "astro:assets";
-import twoDoors from "../../../assets/generated/two-doors-riddle.webp";
-
-<Image
-  src={twoDoors}
-  alt="Two doors, each of which is guarded by a guard."
-  width="400"
-  height="400"
-/>
+<img src="/assets/generated/two-doors-riddle.webp" alt="Two doors, each of which is guarded by a guard." width="400px" height="400px" />
 
 | Difficulty                        | Categories                       | Source  | I know the solution |
 | --------------------------------- | -------------------------------- | ------- | ------------------- |

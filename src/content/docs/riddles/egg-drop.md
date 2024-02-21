@@ -3,15 +3,7 @@ title: The Egg Drop Riddle
 description: An optimization riddle about dropping eggs off of a building.
 ---
 
-import { Image } from "astro:assets";
-import eggDrop from "../../../assets/generated/egg-drop-riddle.webp";
-
-<Image
-  src={eggDrop}
-  alt="A man holding two eggs looking at a skyscraper."
-  width="400"
-  height="400"
-/>
+<img src="/assets/generated/egg-drop-riddle.webp" alt="A man holding an egg in each hand looks up at a skyscraper." width="400px" height="400px" />
 
 | Difficulty                              | Categories                                 | Source    | I know the solution |
 | --------------------------------------- | ------------------------------------------ | --------- | ------------------- |

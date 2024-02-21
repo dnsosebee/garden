@@ -4,15 +4,6 @@ description: Get started  your docs site with Starlight.
 template: doc
 ---
 
-import { Image } from "astro:assets";
-import profileImage from "../../assets/photos/profile.jpg";
-
-<Image
-  src={profileImage}
-  alt="Daniel Sosebee's headshot"
-  class="rounded-full"
-  width="200"
-  height="200"
-/>
+<img src="/assets/photos/profile.jpg" alt="Daniel Sosebee's headshot" class="rounded-full" width="200" height="200" />
 
 Hi, I'm Daniel. Welcome! This is my personal wiki, or [digital garden](https://maggieappleton.com/garden-history). Please check the menu to see my notes and writings.

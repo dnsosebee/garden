@@ -3,16 +3,13 @@ title: The Obtuse Partitioning Riddle
 description: A geometry riddle about partitioning an obtuse triangle.
 ---
 
-import { Image } from "astro:assets";
-import obtuse from "../../../assets/found/obtuse.gif";
-
-<Image src={obtuse} alt="A hand drawn obtuse triangle." width="400" height="400" />
+<img src="/assets/found/obtuse.gif" alt="A hand drawn obtuse triangle." width="400px" height="400px" />
 
 | Difficulty                              | Categories                             | Source               | I know the solution |
 | --------------------------------------- | -------------------------------------- | -------------------- | ------------------- |
 | [🌶️🌶️🌶️ Spicy](/riddles/#spicy-riddles) | [geometry](/riddles/#geometry-riddles) | Martin Gardner Book? | Yes                 |
 
-**How can you cut an obtuse triangle into pieces such that every piece is an acute triangle?**
+**How can you cut an obtuse triangle into pieces such that each piece is an acute triangle?**
 
 ## Daniel's Notes
 

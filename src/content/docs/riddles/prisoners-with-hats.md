@@ -3,15 +3,7 @@ title: The Prisoners with Hats Riddle
 description: A logic riddle about determining hat colors with limited information.
 ---
 
-import { Image } from "astro:assets";
-import prisonersWithHatsRiddle from "../../../assets/generated/prisoners-with-hats-riddle.webp";
-
-<Image
-  src={prisonersWithHatsRiddle}
-  alt="A man wearing a dark hat staring at a wall of images of other men wearing either black or white hats."
-  width="400"
-  height="400"
-/>
+<img src="/assets/generated/prisoners-with-hats-riddle.webp" alt="A man wearing a dark hat staring at a wall of images of other men wearing either black or white hats." width="400px" height="400px" />
 
 | Difficulty                              | Categories                       | Source            | I know the solution |
 | --------------------------------------- | -------------------------------- | ----------------- | ------------------- |

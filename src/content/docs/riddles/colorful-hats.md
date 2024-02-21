@@ -3,15 +3,8 @@ title: Colorful Variant of The Prisoners with Hats Riddle
 description: A more difficult variant of the classic prisoners with hats riddle.
 ---
 
-import { Image } from "astro:assets";
-import colorfulHatsRiddle from "../../../assets/generated/colorful-hats-riddle.png";
-
-<Image
-  src={colorfulHatsRiddle}
-  alt="An orderly single file line of people, extending through a dark corridor. Each person faces forward and wears a hat of a unique color."
-  width="400"
-  height="400"
-/>
+<img src="/assets/generated/colorful-hats-riddle.png" alt="An orderly single file line of people, extending through a dark corridor. Each person faces forward and wears a hat of a unique color."
+width="400px" height="400px" />
 
 | Difficulty                                            | Categories                       | Source                    | I know the solution |
 | ----------------------------------------------------- | -------------------------------- | ------------------------- | ------------------- |
