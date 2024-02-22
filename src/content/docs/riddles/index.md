@@ -25,6 +25,7 @@ Added 2024
 - [The Obtuse Partitioning Riddle](/riddles/obtuse-partitioning)
 - [The Prisoners with Hats Riddle](/riddles/prisoners-with-hats)
 - [The Colorful Hats Riddle](/riddles/colorful-hats)
+- [The Hotel Room Riddle](/riddles/hotel-room)
 
 ## Approved riddles by difficulty
 
@@ -37,7 +38,7 @@ All the riddles are decently hard, but still it seems worthwhile to organize by 
 🌶️
 
 - [The Two Doors Riddle](/riddles/two-doors)
-- TODO: splitting a hotel room
+- [The Hotel Room Riddle](/riddles/hotel-room)
 - TODO: three people with hats
 - TODO: bar of gold for week / month's supply
 - TODO: monty hall
@@ -70,7 +71,7 @@ All the riddles are decently hard, but still it seems worthwhile to organize by 
 - TODO: alice and bob see 8 and 12 trees
 - TODO: 100 people on an island with one or two dots
 - TODO: 100 prisoners and lightbulb
-- TODO: 12 weights, one is lighter or heavier
+- TODO: 12 weights, one is lighter or heavier <!--source - bus-driver -->
 - TODO: passing five cards
 
 ### "Extra Spicy" riddles
@@ -98,6 +99,13 @@ These ones don't require an answer, they're just weird and interesting to think 
 
 ## Approved riddles by category
 
+### Logic riddles
+
+- [The Two Doors Riddle](/riddles/two-doors)
+- [The Prisoners with Hats Riddle](/riddles/prisoners-with-hats)
+- [The Colorful Hats Riddle](/riddles/colorful-hats)
+- [The Hotel Room Riddle](/riddles/hotel-room)
+
 ### Algorithms riddles
 
 - [The Egg Drop Riddle](/riddles/egg-drop)
@@ -106,8 +114,4 @@ These ones don't require an answer, they're just weird and interesting to think 
 
 - [The Obtuse Partitioning Riddle](/riddles/obtuse-partitioning)
 
-### Logic riddles
-
-- [The Two Doors Riddle](/riddles/two-doors)
-- [The Prisoners with Hats Riddle](/riddles/prisoners-with-hats)
-- [The Colorful Hats Riddle](/riddles/colorful-hats)
+### Probability riddles
