@@ -40,6 +40,12 @@ export default defineConfig({
           // ],
         },
         {
+          label: "Executive functioning",
+          autogenerate: {
+            directory: "executive-functioning",
+          },
+        },
+        {
           label: "Assorted",
           items: [
             {

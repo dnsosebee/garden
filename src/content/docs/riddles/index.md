@@ -26,6 +26,7 @@ Added 2024
 - [The Prisoners with Hats Riddle](/riddles/prisoners-with-hats)
 - [The Colorful Hats Riddle](/riddles/colorful-hats)
 - [The Hotel Room Riddle](/riddles/hotel-room)
+- [The Fair Coin Toss Riddle](/riddles/fair-coin-toss)
 
 ## Approved riddles by difficulty
 
@@ -49,7 +50,7 @@ All the riddles are decently hard, but still it seems worthwhile to organize by 
 🌶️🌶️
 
 - [The Egg Drop Riddle](/riddles/egg-drop)
-- TODO: fair coin toss with a weighted coin
+- [The Fair Coin Toss Riddle](/riddles/fair-coin-toss)
 - TODO: burning rope riddles
 - TODO: crossing a river with 1,2,7,14
 - TODO: getting around the world from one airport
@@ -109,9 +110,12 @@ These ones don't require an answer, they're just weird and interesting to think 
 ### Algorithms riddles
 
 - [The Egg Drop Riddle](/riddles/egg-drop)
+- [The Fair Coin Toss Riddle](/riddles/fair-coin-toss)
 
 ### Geometry riddles
 
 - [The Obtuse Partitioning Riddle](/riddles/obtuse-partitioning)
 
 ### Probability riddles
+
+- [The Fair Coin Toss Riddle](/riddles/fair-coin-toss)
