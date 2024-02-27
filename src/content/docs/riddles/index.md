@@ -27,6 +27,7 @@ Added 2024
 - [The Colorful Hats Riddle](/riddles/colorful-hats)
 - [The Hotel Room Riddle](/riddles/hotel-room)
 - [The Fair Coin Toss Riddle](/riddles/fair-coin-toss)
+- [The Coins on a Chessboard Riddle](/riddles/coins-on-a-chessboard)
 
 ## Approved riddles by difficulty
 
@@ -80,7 +81,7 @@ All the riddles are decently hard, but still it seems worthwhile to organize by 
 🌶️🌶️🌶️🌶️
 
 - [The Colorful Hats Riddle](/riddles/colorful-hats)
-- TODO: coins on chessboard
+- [The Coins on a Chessboard Riddle](/riddles/coins-on-a-chessboard)
 - TODO: three gods
 - TODO: pie-cutting game
 
@@ -106,6 +107,7 @@ These ones don't require an answer, they're just weird and interesting to think 
 - [The Prisoners with Hats Riddle](/riddles/prisoners-with-hats)
 - [The Colorful Hats Riddle](/riddles/colorful-hats)
 - [The Hotel Room Riddle](/riddles/hotel-room)
+- [The Coins on a Chessboard Riddle](/riddles/coins-on-a-chessboard)
 
 ### Algorithms riddles
 
