@@ -1,0 +1,32 @@
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+}
+
+.gallery h3 {
+  font-size: 1.2rem;
+}
+
+a.card {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}
+
+a.card:hover {
+  background-color: rgba(100, 100, 185, 0.3);
+  text-decoration: underline;
+}
+
+a.card > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+figure figcaption {
+  opacity: 0.6;
+}

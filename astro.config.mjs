@@ -16,6 +16,31 @@ export default defineConfig({
       },
       sidebar: [
         {
+          label: "Visual Art",
+          items: [
+            {
+              label: "Visual Art Gallery",
+              link: "/art/",
+            },
+            {
+              label: "Pottery Batch One",
+              link: "/art/pottery-batch-one/",
+            },
+            {
+              label: "Help From My Friends",
+              link: "/art/help-from-my-friends/",
+            },
+            {
+              label: "Platonic Mobile",
+              link: "/art/platonic-mobile/",
+            },
+            { label: "Severed", link: "/art/severed/" },
+            { label: "Glen Canyon Journal", link: "/art/glen-canyon-journal/" },
+            { label: "Doug Addicts Cover", link: "/art/doug-addicts-cover/" },
+            { label: "Wave Plan One", link: "/art/wave-plane-one/" },
+          ],
+        },
+        {
           label: "Riddles",
           autogenerate: {
             directory: "riddles",
@@ -40,32 +65,30 @@ export default defineConfig({
           // ],
         },
         {
+          label: "Recommended",
+          autogenerate: {
+            directory: "recommended",
+          },
+        },
+        {
           label: "Executive functioning",
           autogenerate: {
             directory: "executive-functioning",
           },
         },
-        {
-          label: "Assorted",
-          items: [
-            {
-              label: "Tommy Sosebee",
-              link: "/tommy-sosebee/",
-            },
-          ],
-        },
-        {
-          label: "Reference",
-          autogenerate: {
-            directory: "reference",
-          },
-        },
+        // {
+        //   label: "Reference",
+        //   autogenerate: {
+        //     directory: "reference",
+        //   },
+        // },
       ],
       lastUpdated: true,
       favicon: "/favicon.ico",
       customCss: [
         // Path to your Tailwind base styles:
         "./src/tailwind.css",
+        "./src/global.css",
       ],
     }),
     tailwind({
