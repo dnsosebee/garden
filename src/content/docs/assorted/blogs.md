@@ -1,6 +1,7 @@
 ---
 title: Recommended Blogs
 description: A list of my favorite blogs, and why I like them.
+slug: blogroll
 ---
 
 **Added 2024**

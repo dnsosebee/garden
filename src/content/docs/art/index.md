@@ -3,6 +3,8 @@ title: Visual Art Gallery
 description: A gallery of Daniel Sosebee's visual art.
 ---
 
+Some art I made.
+
 :::tip
 Click any image to see a larger version and any additional notes.
 :::
