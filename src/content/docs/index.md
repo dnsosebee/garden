@@ -18,8 +18,6 @@ If we have any shared interest, don't hesitate to reach out.
 - <a href="https://www.admonymous.co/dnsosebee" target="_blank">Leave me anonymous feedback</a>
 
 
-<!-- ## About
-I like to make beautiful things. In [_The Beginning of Infinity_](/bookshelf/the-beginning-of-infinity), David Deutsch -->
 ## Interests
 
 I like to create and express complex and beautiful patterns.
