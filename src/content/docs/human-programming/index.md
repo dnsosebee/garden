@@ -4,20 +4,20 @@ description: Daniel's thoughts on building executive functioning protocols to ai
 ---
 ![Methodable, the human-programming environment](/assets/methodable-screenshot.webp)
 
-I study and develop human-programming systems like [Methodable](https://a.methodable.com). Here is [my human programming blog](https://humanprogramming.substack.com/p/the-untapped-potential-of-human-programming).
+I study and build human-programming systems like [Methodable](https://a.methodable.com). Here is [my human programming blog](https://humanprogramming.substack.com/p/the-untapped-potential-of-human-programming).
 
 ## Definitions
 ### Human-programming system
 A human-programming system is a system that aids in the development and execution of abstract human workflows.
 
 ### Human-programming language
-A human-programming language is a formal language for specifying human programs. Human-programming languages are a superset of computer programming languages, because human-programming languages can define computational processes as well as human tasks.
+A human-programming language is a formal language for specifying human programs. Human-programming languages are a superset of computer programming languages, because human-programming languages can define computational processes as well as human tasks and interactions.
 
 ### Human-programming development environment
 A human-programming development environment is a set of tools that aid in the creation and modification of human programs.
 
-### Human-programming software runtime
-A human-programming software runtime is the software component of the human-program runtime (the full runtime includes the human user). The software runtime is responsible for navigating the program's control flow and interfacing with the human user in order to deliver and monitor tasks.
+### Human-program software runtime
+A human-program software runtime is the software component of the human-program runtime (the full runtime includes the human user). The software runtime is responsible for navigating the program's control flow and interfacing with the human user in order to deliver and monitor tasks.
 
 ## Human programming for AI agents
 I believe human-programming systems could be very effective for use by AI systems. We can think of an LLM as an AI task-completion engine, devoid of intrinsic executive-functioning ability. A well-constructed human-programming system could provide the executive functioning and reasoning capabilities necessary to allow an AI system to better accomplish difficult objectives.

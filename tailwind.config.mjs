@@ -8,7 +8,7 @@ export default {
     extend: {
       colors: {
         accent: colors.blue,
-        gray: colors.zinc,
+        gray: colors.neutral,
       },
     },
   },

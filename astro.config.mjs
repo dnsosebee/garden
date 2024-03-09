@@ -11,8 +11,9 @@ export default defineConfig({
       title: "Daniel Sosebee",
       description: "Daniel Sosebee's digital garden. Posts, journals, and references.",
       social: {
-        github: "https://github.com/dnsosebee/",
+        email: "mailto:daniel@harmonic.so",
         twitter: "https://twitter.com/dnsosebee",
+        github: "https://github.com/dnsosebee/",
         linkedin: "https://www.linkedin.com/in/danielsosebee/",
       },
       sidebar: [
