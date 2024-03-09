@@ -9,6 +9,9 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "Daniel Sosebee",
+      editLink: {
+        baseUrl: "https://github.com/dnsosebee/garden/edit/main/",
+      },
       description: "Daniel Sosebee's digital garden. Posts, journals, and references.",
       social: {
         email: "mailto:daniel@harmonic.so",

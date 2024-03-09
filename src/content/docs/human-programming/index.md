@@ -1,5 +1,5 @@
 ---
-title: Human programming
+title: Human Programming
 description: Daniel's thoughts on building executive functioning protocols to aid in human-computer interaction during the AI age.
 ---
 ![Methodable, the human-programming environment](/assets/methodable-screenshot.webp)
