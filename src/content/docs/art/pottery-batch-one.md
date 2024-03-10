@@ -3,7 +3,7 @@ title: Pottery Batch One
 description: Pottery Batch One is a visual art piece by Daniel Sosebee.
 ---
 
-<a class="card" href="/art#pottery-batch-one">< back to gallery</a>
+<a class="card" href="/art#pottery-batch-one">← back to gallery</a>
 
 <figure>
 <img src="/assets/art/pottery-batch-one.jpg" alt="'Pottery Batch One' art piece by Daniel Sosebee"/>

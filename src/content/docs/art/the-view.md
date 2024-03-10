@@ -3,7 +3,7 @@ title: The View
 description: The View is a visual art piece by Daniel Sosebee.
 ---
 
-<a class="card" href="/art#the-view">< back to gallery</a>
+<a class="card" href="/art#the-view">← back to gallery</a>
 
 <figure>
 <img src="/assets/art/the-view.png" alt="'The View' art piece by Daniel Sosebee"/>

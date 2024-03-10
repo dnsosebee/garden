@@ -3,7 +3,7 @@ title: Planet Factory
 description: Planet Factory is a visual art piece by Daniel Sosebee.
 ---
 
-<a class="card" href="/art#planet-factory">< back to gallery</a>
+<a class="card" href="/art#planet-factory">← back to gallery</a>
 
 <figure>
 <img src="/assets/art/planet-factory.jpg" alt="'Planet Factory' art piece by Daniel Sosebee"/>

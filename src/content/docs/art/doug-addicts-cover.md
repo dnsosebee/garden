@@ -3,7 +3,7 @@ title: Doug Addicts Cover
 description: Doug Addicts Cover is a visual art piece by Daniel Sosebee.
 ---
 
-<a class="card" href="/art#doug-addicts-cover">< back to gallery</a>
+<a class="card" href="/art#doug-addicts-cover">← back to gallery</a>
 
 <figure>
 <img src="/assets/art/doug-addicts-cover.jpg" alt="'Doug Addicts Cover' art piece by Daniel Sosebee"/>

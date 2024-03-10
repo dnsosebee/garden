@@ -21,7 +21,7 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: "Now",
+          label: "What I'm Up To Now",
           link: "/now/",
         },
         {
@@ -29,7 +29,7 @@ export default defineConfig({
           link: "/human-programming/",
         },
         {
-          label: "Music Gallery",
+          label: "Piano & Electronic Music",
           link: "/music/",
           // collapsed: true,
           // items: [
@@ -81,7 +81,7 @@ export default defineConfig({
           ],
         },
         {
-          label: "Riddles",
+          label: "Math & Logic Riddles",
 
           collapsed: true,
           autogenerate: {
@@ -99,6 +99,10 @@ export default defineConfig({
         //   ],
         // },
 
+        {
+          label: "Sneaky Town",
+          link: "/sneaky-town/",
+        },
         {
           label: "harmonic.so ↗",
           link: "https://harmonic.so",

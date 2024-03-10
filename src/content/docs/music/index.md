@@ -1,5 +1,5 @@
 ---
-title: Music Gallery
+title: Piano & Electronic Music
 description: Recordings and videos of Daniel's music.
 slug: music
 ---

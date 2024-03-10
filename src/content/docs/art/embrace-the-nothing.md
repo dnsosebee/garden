@@ -3,7 +3,7 @@ title: Embrace the Nothing
 description: Embrace the Nothing is a visual art piece by Daniel Sosebee.
 ---
 
-<a class="card" href="/art#embrace-the-nothing">< back to gallery</a>
+<a class="card" href="/art#embrace-the-nothing">← back to gallery</a>
 
 <figure>
 <img src="/assets/art/embrace-the-nothing.jpg" alt="'Embrace The Nothing' art piece by Daniel Sosebee"/>

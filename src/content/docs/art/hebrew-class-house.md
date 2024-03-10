@@ -3,7 +3,7 @@ title: Hebrew Class House
 description: Hebrew Class House is a visual art piece by Daniel Sosebee.
 ---
 
-<a class="card" href="/art#hebrew-class-house">< back to gallery</a>
+<a class="card" href="/art#hebrew-class-house">← back to gallery</a>
 
 <figure>
 <img src="/assets/art/hebrew-class-house.jpg" alt="'Hebrew Class House' art piece by Daniel Sosebee"/>
