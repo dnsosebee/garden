@@ -6,7 +6,7 @@ template: doc
 
 <img src="/assets/photos/profile.jpg" alt="Daniel Sosebee's headshot" class="rounded-xl"  width="200" height="200" />
 
-I'm a software engineer who builds AI web apps. For work inquiries visit my consulting firm [Harmonic Software](https://harmonic.so).
+I'm a software engineer who builds AI web apps. For work inquiries visit my consulting agency [Harmonic Software](https://harmonic.so).
 
 ### Contact
 I'd be happy to hear from you.
