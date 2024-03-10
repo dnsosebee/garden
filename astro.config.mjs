@@ -9,6 +9,7 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "Daniel Sosebee",
+      logo: "./public/assets/art/helix-square.jpg",
       editLink: {
         baseUrl: "https://github.com/dnsosebee/garden/edit/main/",
       },
