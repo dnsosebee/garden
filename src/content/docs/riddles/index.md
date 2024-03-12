@@ -4,6 +4,8 @@ description: A list of math and logic riddles that are hard, fun, and well-defin
 slug: riddles
 ---
 
+!['Check My Hat' art piece by Daniel Sosebee](../../../../public/assets/art/check-my-hat-banner.jpeg)
+
 Below is my list of approved riddles. I have spent days, months, and even years solving some of them. Not all riddles are worth spending a year of your life on - only the good ones. What makes a riddle good?
 
 In my mind a good riddle is well-defined: the problem should be clear, and more importantly the _space of possible solutions_ should be clear. Many riddles don't meet this test, for example the classic ["look in the mirror and see what you saw..."](https://riddlesbrainteasers.com/room-windows/) riddle. What a shame it would be to spend your time working on a riddle, only to later learn that there's no good answer!
@@ -32,7 +34,7 @@ Added 2024
 ## Approved riddles by difficulty
 
 :::note
-All the riddles are decently hard, but still it seems worthwhile to organize by difficulty, though it's highly subjective. So I have chosen a scale of "spiciness". This is a bit like one of those restaurants where the waiter will ask "Are you sure you want that? It's Thai spicy, not American spicy."
+All the riddles are decently hard, but still it seems worthwhile to organize by difficulty, though it's highly subjective. So I have chosen a scale of "spiciness". This is a bit like one of those Thai restaurants where the waiter will ask "Are you sure you want that? It's Thai spicy, not American spicy."
 :::
 
 ### "Mild" riddles
@@ -77,6 +79,9 @@ All the riddles are decently hard, but still it seems worthwhile to organize by 
 - TODO: passing five cards
 
 ### "Extra Spicy" riddles
+
+<img alt="'Grande' art by Daniel Sosebee" src="../../../../public/assets/art/grande.jpg" class="float-right m-8 rounded-xl shadow" width="150" />
+
 
 🌶️🌶️🌶️🌶️
 

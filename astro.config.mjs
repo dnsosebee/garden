@@ -28,7 +28,7 @@ export default defineConfig({
           link: "/now/",
         },
         {
-          label: "Human Programming",
+          label: "Human Programming Overview",
           link: "/human-programming/",
         },
         {
