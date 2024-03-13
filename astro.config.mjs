@@ -28,8 +28,18 @@ export default defineConfig({
           link: "/now/",
         },
         {
-          label: "Human Programming Overview",
-          link: "/human-programming/",
+          label: "Human Programming",
+          collapsed: true,
+          items: [
+            {
+              label: "Human Programming Overview",
+              link: "/human-programming/",
+            },
+            {
+              label: "LIFE - A Metaprogram for Holistic Planning and Reflection",
+              link: "/life/",
+            },
+          ],
         },
         {
           label: "Piano & Electronic Music",

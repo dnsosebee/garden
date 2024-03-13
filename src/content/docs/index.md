@@ -1,6 +1,6 @@
 ---
 title: Daniel Sosebee
-description: Get started  your docs site with Starlight.
+description: Daniel Sosebee's homepage and digital garden.
 template: doc
 ---
 
@@ -40,7 +40,7 @@ I like to create and express complex and beautiful patterns.
 - [🪴 Music Gallery](/music) - my piano and electronic music recordings.
 - [🪴 Visual Art Gallery](/art) - my drawings and paintings. I like optical illusions and pattern-heavy drawing.
 
-### Other things
+### Making other things
 
 
 ![Sneaky Town board game in construction](../assets/sneaky-town.png)

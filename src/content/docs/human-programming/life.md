@@ -1,0 +1,20 @@
+---
+title: LIFE - A Metaprogram for Holistic Planning and Reflection
+description: A metaprogram for living well.
+slug: life
+---
+In 2016 I became concerned that I wasn't living my life well and didn't even have a methodology for living a good life. I figured that I could solve this quandry by producing a system that, when followed exactly, would cause me to eventually lead the best life I could. So I got to it.
+
+For some reason I called the system "LIFE". The acronym doesn't really stand for anything, but it conveys something about the gravity and intended reach of the system. Here's the first version:
+
+### LIFE program v1 description
+> Complete the following activities without fail.
+>
+> **Daily:** Write in your journal about how your day went and any thoughts you have about how to live your life better.
+>
+> **Weekly:** Review last week's journal entries, then update *this reflection program* in order to improve this program's ability to acchieve its goal: to help you lead a good life.
+
+### ...And that's it
+That was the whole program. A minimal strange loop that seeks to improve itself with time. It wasn't much, but I figured it was enough to pull itself up by its bootstraps. If I could follow this system, then after long enough it would grow to become an ideal guide that would help me to live exactly the life I wanted.
+
+So I got started, and 8 years later the LIFE system is still going, and indeed it has evolved a ton, as have I! We do everything together now. I'll write more on the evolution of LIFE soon...

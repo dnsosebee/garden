@@ -13,6 +13,8 @@ I study and build human-programming systems like [Methodable](https://a.methodab
 - 2022-07: [Why to Store Descriptions of Workflows and Not Just Guides](https://humanprogramming.substack.com/p/why-to-store-descriptions-of-workflows) 
 - 2022-02: [The Untapped Potential of Human Programming](https://humanprogramming.substack.com/p/the-untapped-potential-of-human-programming)
 
+Also see [LIFE - A Metaprogram for Holistic Planning and Reflection](/life).
+
 ## Definitions
 ### Human-programming system
 A human-programming system is a system that aids in the development and execution of abstract human workflows.
