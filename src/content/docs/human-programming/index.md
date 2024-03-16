@@ -36,6 +36,8 @@ A human-program software runtime is the software component of the human-program 
 
 I believe human-programming systems could be very effective for use by AI systems. We can think of an LLM as an AI task-completion engine, devoid of intrinsic executive-functioning ability. A well-constructed human-programming system could provide the executive functioning and reasoning capabilities necessary to allow an AI system to better accomplish difficult objectives.
 
+I've started a research project [amps.run](https://amps.run) to explore this intersection.
+
 </div>
 
 ### Ethics of advancing AI agent capabilities

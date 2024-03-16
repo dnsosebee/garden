@@ -116,9 +116,18 @@ export default defineConfig({
           label: "Sneaky Town",
           link: "/sneaky-town/",
         },
+        // {
+        //   label: "Bookshelf & Bedside Table",
+        //   link: "/bookshelf/",
+        // },
         {
           label: "harmonic.so ↗",
           link: "https://harmonic.so",
+          attrs: { target: "_blank", style: "font-style: italic" },
+        },
+        {
+          label: "amps.run ↗",
+          link: "https://amps.run",
           attrs: { target: "_blank", style: "font-style: italic" },
         },
       ],
