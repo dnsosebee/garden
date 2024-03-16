@@ -22,7 +22,8 @@ export const bookData: BookData[] = [
     published: "2014",
     fiction: true,
     yearRead: undefined,
-    myNotes: undefined,
+    myNotes:
+      "Really fun sci-fi + introduces the 'Dark Forest Theory' of cosmic sociology in book 2, a genuinely interesting theory about what might be going on with aliens.",
     starred: true,
   },
   {
@@ -33,7 +34,7 @@ export const bookData: BookData[] = [
     published: "1986",
     fiction: true,
     yearRead: undefined,
-    myNotes: "A childhood classic!",
+    myNotes: "Had to throw in some childhood classics!",
     starred: true,
   },
 ];

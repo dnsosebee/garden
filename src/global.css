@@ -10,6 +10,7 @@
   width: auto;
   height: auto;
   object-fit: contain;
+  align-self: center;
 }
 
 .gallery h3 {
@@ -17,7 +18,8 @@
 }
 
 a.card {
-  display: block;
+  display: flex;
+  flex-direction: column;
   color: inherit;
   text-decoration: none;
   padding: 0.5rem;

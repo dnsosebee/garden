@@ -6,22 +6,22 @@ description: Books I finished.
 import { Image } from "astro:assets";
 import { bookData } from "../data/books.ts";
 
-These are books I finished (and therefore at least enjoyed). Highly recommended books come with a ⭐.
+Some books I finished (and therefore at least enjoyed). Highly recommended books come with a ⭐.
 
-<div class="gallery small-gallery">
+<div class="gallery">
   {bookData.map((book) => (
     <a href={book.url} class="card">
       <Image src={book.image} alt={book.title} width="200" class="book-cover" />
       <h3>
-        {book.starred && "⭐ "}
         {book.title}
+        {book.starred && " ⭐"}
       </h3>
-      <span class="font-bold text-sm" style="opacity: 0.5;">
+      <span class="font-bold text-sm pt-1" style="opacity: 0.5;">
         {book.fiction ? "Fiction" : "Nonfiction"}, by {book.author}
         {book.yearRead && `, I read ${book.yearRead}`}
       </span>
       {book.myNotes && (
-        <p>
+        <p class="pt-4">
           <b>Notes:</b> {book.myNotes}
         </p>
       )}
