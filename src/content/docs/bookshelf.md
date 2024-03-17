@@ -47,7 +47,7 @@ Someone bumped the shelf! And knocked off all of the images and hyperlinks... ma
 - How to Win Friends and Influence People (in-progress)
 - Getting to Yes (⭐), read 2024
 - Tiny Habits (⭐), read 2024
-- Designing your Life
+- Designing your Life, read 2020
 
 ### Computers
 - The Dream Machine (in-progress)
@@ -57,7 +57,7 @@ Someone bumped the shelf! And knocked off all of the images and hyperlinks... ma
 ### Classics
 - The Brothers Karamazov (⭐), read 2023
 - Anna Karenina (⭐), read 2022
-- The Idiot
+- The Idiot, read 2019
 
 ### Science fiction
 - Anathem (in-progress)
