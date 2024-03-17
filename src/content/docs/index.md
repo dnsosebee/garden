@@ -46,6 +46,10 @@ I like to create and express complex and beautiful patterns.
 ![Sneaky Town board game in construction](../assets/sneaky-town.png)
 - [🪴 Sneaky Town](/sneaky-town), my board game (in development).
 
+## More links
+- [🪴 What I'm Up To Now](/now)
+- [🪴 My Bookshelf](/bookshelf)
+
 ## About this website
 
 Here is [this site's source code](https://github.com/dnsosebee/garden). All content is written in [markdown](https://www.markdownguide.org/) (including the [visual art gallery](/art)!) and published as static HTML pages using [Astro](https://astro.build/). The sidebar and site styles are thanks to the [Starlight documentation theme](https://starlight.astro.build/).
