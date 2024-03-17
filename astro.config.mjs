@@ -116,10 +116,10 @@ export default defineConfig({
           label: "Sneaky Town",
           link: "/sneaky-town/",
         },
-        // {
-        //   label: "Bookshelf & Bedside Table",
-        //   link: "/bookshelf/",
-        // },
+        {
+          label: "Bookshelf",
+          link: "/bookshelf/",
+        },
         {
           label: "harmonic.so ↗",
           link: "https://harmonic.so",

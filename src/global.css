@@ -40,9 +40,3 @@ a.card > img {
 figure figcaption {
   opacity: 0.6;
 }
-
-ul,
-ol {
-  /* set spacing */
-  /* gap: 0.1rem; */
-}
