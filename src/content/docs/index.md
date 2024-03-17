@@ -53,7 +53,3 @@ I like to create and express complex and beautiful patterns.
 ## About this website
 
 Here is [this site's source code](https://github.com/dnsosebee/garden). All content is written in [markdown](https://www.markdownguide.org/) (including the [visual art gallery](/art)!) and published as static HTML pages using [Astro](https://astro.build/). The sidebar and site styles are thanks to the [Starlight documentation theme](https://starlight.astro.build/).
-
-_planned additions:_
-- My journaling system
-- Bookshelf / blogshelf
