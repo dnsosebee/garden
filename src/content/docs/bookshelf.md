@@ -37,6 +37,7 @@ Someone bumped the shelf! And knocked off all of the images and hyperlinks... ma
 
 ## Nonfiction
 ### Thinking about thinking
+- Laws of Form (in-progress)
 - The Art of Doing Science and Engineering (in-progress)
 - I Am a Strange Loop (⭐), read 2024
 - The Begining of Infinity (⭐), read 2023
@@ -53,6 +54,9 @@ Someone bumped the shelf! And knocked off all of the images and hyperlinks... ma
 - The Dream Machine (in-progress)
 - The Little Schemer
 
+### Other Fiction
+- Build, Baby, Build, read 2024
+
 ## Fiction
 ### Classics
 - The Brothers Karamazov (⭐), read 2023
@@ -67,13 +71,14 @@ Someone bumped the shelf! And knocked off all of the images and hyperlinks... ma
 - The Three Body Problem series (⭐), read 2021
 
 ### Adventures and more
-- On the Road (in-progress)
-- Siddhartha (⭐)
-- Big Sur
+- UNSONG (in-progress)
 - The road
+- *On* The Road, read 2024
+- Big Sur
+- Siddhartha (⭐) (it's free as an album on Spotify!)
 
 ### Childhood favorites
 - Redwall series (⭐)
 - Most books by Garth Nix
-- Masters of Deception
+- Masters of Deception (book of profiles of artists who do optical illusions)
 - All kinds of newspaper comics, especially Calvin and Hobbes

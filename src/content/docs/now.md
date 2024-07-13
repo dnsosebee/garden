@@ -3,20 +3,21 @@ title: What I'm Up To Now
 description: What I'm up to these days.
 slug: now
 ---
-_updated 2024-03-08_
+_updated July 2024_
 
-![Map of where I'm hanging these days](/assets/now/where.png)
-Here's where I'm usually hanging these days.
+I am in Denver for the summer!
+
+<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-9302016d-ba42-4568-9fa2-1b562bdec404" data-elfsight-app-lazy></div>
 
 ## Vocations
-I'm building AI web apps through my LLC [Harmonic Software](https://harmonic.so/). My current work includes helping the Josh Bersin Company build the HR assistant [Galileo](https://sanalabs.com/galileo) and helping [Sana Labs](https://sana.ai/) design a natural-language to third-party actions system.
+I'm building AI and data-management systems through my LLC [Harmonic Software](https://harmonic.so/). My current work includes helping [Sana Labs](https://sana.ai/) design a transactional agent framework and helping the Josh Bersin Company build the HR assistant [Galileo](https://sanalabs.com/galileo).
 
 ## Research interests
-I'm planning to rejuvenate my [human programming](/human-programming) projects for the AI age - could I design a language for directing complex AI behavior?
+I'm planning to rejuvenate my [human programming](/human-programming) projects for the AI age - could I design a reflexive and human-controllable language for directing complex AI behavior?
 
-Accordingly I am ambiently learning about LLMs, AI alignment / interpretability, multi-agent programming systems, behavioral science, and intelligence.
+Accordingly I am learning about LLMs, AI alignment / interpretability, multi-agent programming systems and neurosymbolic programming.
 
 ## Avocations
-- I climb regularly in locations around the bay area.
-- I'm actively building this website and the [Harmonic Software](https://harmonic.so/) website.
-- I journal every morning and maintain other programatic reflection routines.
+- Making use of Denver's nature - climbing, backpacking, running
+- Writing, such as on this website and [Human Programming](https://humanprogramming.substack.com)

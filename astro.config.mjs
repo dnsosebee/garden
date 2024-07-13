@@ -121,6 +121,27 @@ export default defineConfig({
           link: "/bookshelf/",
         },
         {
+          label: "Journal",
+          collapsed: true,
+          items: [
+            {
+              label: "All Journal Entries",
+              link: "/journal/",
+            },
+            {
+              label: "Every-Year Carry 2024",
+              link: "/eyc-2024/",
+            },
+          ],
+        },
+        // {
+        //   label: "etc.",
+        //   collapsed: true,
+        //   autogenerate: {
+        //     directory: "etc",
+        //   },
+        // },
+        {
           label: "harmonic.so ↗",
           link: "https://harmonic.so",
           attrs: { target: "_blank", style: "font-style: italic" },
