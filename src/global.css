@@ -40,3 +40,16 @@ a.card > img {
 figure figcaption {
   opacity: 0.6;
 }
+
+a[href^="https://elfsight.com/weather-widget/"][target="_blank"]::before
+{
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 1);
+  z-index: 9999;
+  cursor: default;
+}

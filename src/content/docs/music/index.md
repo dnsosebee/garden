@@ -17,7 +17,7 @@ Here's a video of the first song, Upwelling:
 ## Other highlights
 
 ### [_What I Have When I Have Nothing (2022)_](https://soundcloud.com/user643131803/comedown-noodle)
-One of my favorite piano recordings:
+One of my favorite piano recordings, fully improvised:
 <iframe style="height: 166px; width:100%; border: 1px solid #3b82f6; border-radius: 10px;" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1225271422&color=%233b82f6&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ### [_Selected Electronic Works 17-19_](https://soundcloud.com/user643131803/sets/daniels-electronic-music)

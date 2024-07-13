@@ -4,9 +4,9 @@ description: Daniel Sosebee's homepage and digital garden.
 template: doc
 ---
 
-<img src="/assets/photos/profile.jpg" alt="Daniel Sosebee's headshot" class="rounded-xl"  width="200" height="200" />
+<!-- <img src="/assets/photos/profile.jpg" alt="Daniel Sosebee's headshot" class="rounded-xl"  width="200" height="200" /> -->
 
-I'm a software engineer who builds AI web apps. For work inquiries visit my consulting agency [Harmonic Software](https://harmonic.so).
+I'm a software engineer who builds AI applications that work in harmony with traditional software. For work inquiries visit my consulting agency [Harmonic Software](https://harmonic.so).
 
 ### Contact
 I'd be happy to hear from you.
@@ -20,7 +20,7 @@ I'd be happy to hear from you.
 
 ## Interests
 
-I like to create and express complex and beautiful patterns.
+Overall, I like to create beautiful patterns...
 
 ### Programming & logic
 
@@ -40,7 +40,7 @@ I like to create and express complex and beautiful patterns.
 - [🪴 Music Gallery](/music) - my piano and electronic music recordings.
 - [🪴 Visual Art Gallery](/art) - my drawings and paintings. I like optical illusions and pattern-heavy drawing.
 
-### Making other things
+### Other projects
 
 
 ![Sneaky Town board game in construction](../assets/sneaky-town.png)
@@ -48,6 +48,7 @@ I like to create and express complex and beautiful patterns.
 
 ## More links
 - [🪴 What I'm Up To Now](/now)
+- [✉️ Every-Year Carry 2024](/eyc-2024)
 - [🪴 My Bookshelf](/bookshelf)
 
 ## About this website
@@ -56,4 +57,4 @@ Here is [this site's source code](https://github.com/dnsosebee/garden). All cont
 
 _planned additions:_
 - My journaling system
-- Bookshelf / blogshelf
+- blogshelf
