@@ -25,6 +25,8 @@ template: doc
 
 I'm a software engineer who builds AI applications. For work inquiries visit my consulting agency [Harmonic Software](https://harmonic.so).
 
+This is my personal website and public journal.
+
 ##### Contact
 - Email: <a href="mailto:daniel@harmonic.so">daniel@harmonic.so</a>
 - Twitter: <a href="https://twitter.com/dnsosebee" target="_blank">@dnsosebee</a>
@@ -83,8 +85,8 @@ I'm a software engineer who builds AI applications. For work inquiries visit my 
 
 </div>
 
-- 2024-07: [Every-Year Carry 2024](/eyc-2024)
-- 2024-03: [The Origins of LIFE](/origins-of-life)
+- 2024-07: [📃 Every-Year Carry 2024](/eyc-2024)
+- 2024-03: [📃 The Origins of LIFE](/origins-of-life)
 
 ## How this site was made
 
