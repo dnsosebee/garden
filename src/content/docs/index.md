@@ -60,7 +60,7 @@ I'm a software engineer who builds AI applications. For work inquiries visit my 
 </div>
 
 - [🪴 Music Gallery](/music) - my piano and electronic music recordings.
-- [🪴 Visual Art Gallery](/art) - my drawings and paintings. I like optical illusions and pattern-heavy drawing.
+- [🪴 Visual Art Gallery](/art) - my drawings and paintings.
 
 ### Other
 
@@ -72,7 +72,7 @@ I'm a software engineer who builds AI applications. For work inquiries visit my 
 
 - [🪴 What I'm Up To Now](/now)
 - [🪴 My Bookshelf](/bookshelf)
-- [🪴 Sneaky Town](/sneaky-town), a board game I'm designing.
+- [🪴 Sneaky Town](/sneaky-town) - a board game I'm designing.
 
 
 ## Journal Entries
