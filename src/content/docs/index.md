@@ -72,7 +72,7 @@ I'm a software engineer who builds AI applications. For work inquiries visit my 
 
 - [🪴 What I'm Up To Now](/now)
 - [🪴 My Bookshelf](/bookshelf)
-- [🪴 Sneaky Town](/sneaky-town), the board game I'm designing.
+- [🪴 Sneaky Town](/sneaky-town), a board game I'm designing.
 
 
 ## Journal Entries

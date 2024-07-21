@@ -22,4 +22,4 @@ Accordingly I am learning about LLMs, AI alignment / interpretability, multi-age
 - Connecting with people
 - Making use of Denver's nature - climbing, backpacking, running
 - Writing, such as on this website and [Human Programming](https://humanprogramming.substack.com)
-- Cultivating an unconditional positive attitude
+- Cultivating a positive attitude
