@@ -25,8 +25,6 @@ template: doc
 
 I'm a software engineer who builds AI applications. For work inquiries visit my consulting agency [Harmonic Software](https://harmonic.so).
 
-This is my personal website and public journal.
-
 ##### Contact
 - Email: <a href="mailto:daniel@harmonic.so">daniel@harmonic.so</a>
 - Twitter: <a href="https://twitter.com/dnsosebee" target="_blank">@dnsosebee</a>
@@ -36,8 +34,7 @@ This is my personal website and public journal.
 
 
 
-## Pages by Interest
-### Programming & logic
+### Programming & logic projects
 
 
 <div class="ratio-box">
@@ -53,7 +50,7 @@ This is my personal website and public journal.
   - 2022-02: [The Untapped Potential of Human Programming](https://humanprogramming.substack.com/p/the-untapped-potential-of-human-programming) -->
 - [🪴 Daniel's Approved Riddles](/riddles) - A collection of top tier math and logic riddles (under construction).
 
-### Music & art
+### Music & art projects
 
 <div class="ratio-box">
 
@@ -64,7 +61,7 @@ This is my personal website and public journal.
 - [🪴 Music Gallery](/music) - my piano and electronic music recordings.
 - [🪴 Visual Art Gallery](/art) - my drawings and paintings.
 
-### Other
+### Other pages
 
 <div class="ratio-box">
 
@@ -77,7 +74,7 @@ This is my personal website and public journal.
 - [🪴 Sneaky Town](/sneaky-town) - a board game I'm designing.
 
 
-## Journal Entries
+### Journal Entries
 
 <div class="ratio-box">
 
@@ -88,6 +85,6 @@ This is my personal website and public journal.
 - 2024-07: [📃 Every-Year Carry 2024](/eyc-2024)
 - 2024-03: [📃 The Origins of LIFE](/origins-of-life)
 
-## How this site was made
+### How this site was made
 
 Here is [this site's source code](https://github.com/dnsosebee/garden). All content is written in [markdown](https://www.markdownguide.org/) (including the [visual art gallery](/art)!) and published as static HTML pages using [Astro](https://astro.build/). The sidebar and site styles are thanks to the [Starlight documentation theme](https://starlight.astro.build/).
