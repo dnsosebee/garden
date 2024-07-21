@@ -29,17 +29,7 @@ export default defineConfig({
         },
         {
           label: "Human Programming",
-          collapsed: true,
-          items: [
-            {
-              label: "Human Programming Overview",
-              link: "/human-programming/",
-            },
-            {
-              label: "LIFE - A Metaprogram for Holistic Planning and Reflection",
-              link: "/life/",
-            },
-          ],
+          link: "/human-programming/",
         },
         {
           label: "Piano & Electronic Music",
@@ -131,6 +121,10 @@ export default defineConfig({
             {
               label: "Every-Year Carry 2024",
               link: "/eyc-2024/",
+            },
+            {
+              label: "The Origins of LIFE",
+              link: "/origins-of-life/",
             },
           ],
         },

@@ -1,10 +1,8 @@
 ---
-title: Human Programming Overview
+title: Human Programming Writings and Definitions
 description: Daniel's thoughts on building executive functioning protocols to aid in human-computer interaction during the AI age.
 ---
 ![Methodable, the human-programming environment](/assets/methodable-screenshot.webp)
-
-I study and build human-programming systems like [Methodable](https://a.methodable.com).
 
 ### Writings on human programming
 
@@ -13,7 +11,7 @@ I study and build human-programming systems like [Methodable](https://a.methodab
 - 2022-07: [Why to Store Descriptions of Workflows and Not Just Guides](https://humanprogramming.substack.com/p/why-to-store-descriptions-of-workflows) 
 - 2022-02: [The Untapped Potential of Human Programming](https://humanprogramming.substack.com/p/the-untapped-potential-of-human-programming)
 
-Also see [LIFE - A Metaprogram for Holistic Planning and Reflection](/life).
+Also see [The Origins of LIFE](/life) for discussion of a particular human program.
 
 ## Definitions
 ### Human-programming system

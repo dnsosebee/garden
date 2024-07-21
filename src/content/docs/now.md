@@ -18,6 +18,8 @@ I'm planning to rejuvenate my [human programming](/human-programming) projects f
 
 Accordingly I am learning about LLMs, AI alignment / interpretability, multi-agent programming systems and neurosymbolic programming.
 
-## Avocations
+## Other Foci
+- Connecting with people
 - Making use of Denver's nature - climbing, backpacking, running
 - Writing, such as on this website and [Human Programming](https://humanprogramming.substack.com)
+- Cultivating an unconditional positive attitude
