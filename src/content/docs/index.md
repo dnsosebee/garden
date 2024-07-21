@@ -23,19 +23,17 @@ template: doc
 
 <!-- <img src="/assets/photos/profile.jpg" alt="Daniel Sosebee's headshot" class="rounded-xl"  width="200" height="200" /> -->
 
-I'm a software engineer who builds AI applications. For work inquiries visit my consulting agency [Harmonic Software](https://harmonic.so).
+I'm a software engineer who designs and builds AI applications. For work inquiries visit my consulting agency [Harmonic Software](https://harmonic.so).
 
 ##### Contact
+
 - Email: <a href="mailto:daniel@harmonic.so">daniel@harmonic.so</a>
 - Twitter: <a href="https://twitter.com/dnsosebee" target="_blank">@dnsosebee</a>
 - Github: <a href="https://github.com/dnsosebee" target="_blank">@dnsosebee</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/danielsosebee/" target="_blank">Daniel Sosebee</a>
 - <a href="https://www.admonymous.co/dnsosebee" target="_blank">Leave me anonymous feedback</a>
 
-
-
 ### Programming & logic projects
-
 
 <div class="ratio-box">
 
@@ -61,7 +59,7 @@ I'm a software engineer who builds AI applications. For work inquiries visit my 
 - [🪴 Music Gallery](/music) - my piano and electronic music recordings.
 - [🪴 Visual Art Gallery](/art) - my drawings and paintings.
 
-### Other pages
+### Miscellaneous pages
 
 <div class="ratio-box">
 
@@ -73,8 +71,7 @@ I'm a software engineer who builds AI applications. For work inquiries visit my 
 - [🪴 My Bookshelf](/bookshelf)
 - [🪴 Sneaky Town](/sneaky-town) - a board game I'm designing.
 
-
-### Journal Entries
+### Journal entries
 
 <div class="ratio-box">
 
@@ -85,6 +82,6 @@ I'm a software engineer who builds AI applications. For work inquiries visit my 
 - 2024-07: [📃 Every-Year Carry 2024](/eyc-2024)
 - 2024-03: [📃 The Origins of LIFE](/origins-of-life)
 
-### How this site was made
+### This website
 
 Here is [this site's source code](https://github.com/dnsosebee/garden). All content is written in [markdown](https://www.markdownguide.org/) (including the [visual art gallery](/art)!) and published as static HTML pages using [Astro](https://astro.build/). The sidebar and site styles are thanks to the [Starlight documentation theme](https://starlight.astro.build/).
