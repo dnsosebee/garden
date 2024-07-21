@@ -49,7 +49,7 @@ I'm a software engineer who builds AI applications. For work inquiries visit my 
   - 2022-07: [Why to Store Descriptions of Workflows and Not Just Guides](https://humanprogramming.substack.com/p/why-to-store-descriptions-of-workflows)
   - 2022-06: [⭐ The 'Meet Methodable' program](https://a.methodable.com/guide/e0412eb2-36fd-4903-b186-d2de931fefc7)
   - 2022-02: [The Untapped Potential of Human Programming](https://humanprogramming.substack.com/p/the-untapped-potential-of-human-programming) -->
-- [🪴 Daniel's Approved Riddles](/riddles) - A collection of top tier math and logic riddles.
+- [🪴 Daniel's Approved Riddles](/riddles) - A collection of top tier math and logic riddles (under construction).
 
 ### Music & art
 

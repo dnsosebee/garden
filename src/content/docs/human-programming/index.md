@@ -30,7 +30,7 @@ A human-program software runtime is the software component of the human-program 
 
 <div>
 
-<img alt="'Ganch' art by Daniel Sosebee" src="../../../../public/assets/art/ganch.jpg" class="float-right m-8 rounded-xl shadow" width="150" />
+<img alt="'Ganch' art by Daniel Sosebee" src="/assets/art/ganch.jpg" class="float-right m-8 rounded-xl shadow" width="150" />
 
 I believe human-programming systems could be very effective for use by AI systems. We can think of an LLM as an AI task-completion engine, devoid of intrinsic executive-functioning ability. A well-constructed human-programming system could provide the executive functioning and reasoning capabilities necessary to allow an AI system to better accomplish difficult objectives.
 
