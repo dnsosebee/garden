@@ -53,3 +53,77 @@ a[href^="https://elfsight.com/weather-widget/"][target="_blank"]::before
   z-index: 9999;
   cursor: default;
 }
+
+/* Book */
+.book {
+  position: relative;
+  width: 100%;
+  height: 300px;
+  perspective: 1500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: visible;
+}
+
+.book p {
+  height: 100%;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  transform-style: preserve-3d;
+  transform: rotateY(-20deg); /* Initial rotation to show spine */
+  transition: transform 0.5s ease;
+}
+
+.book img {
+  height: 100%;
+  width: auto;
+  object-fit: contain;
+  border-radius: 2px 4px 4px 2px;
+  box-shadow:
+    5px 5px 20px rgba(0, 0, 0, 0.3),
+    1px 1px 0 #cccccc,
+    2px 2px 0 #cccccc,
+    3px 3px 0 #cccccc,
+    4px 4px 0 #cccccc,
+    5px 5px 0 #cccccc;
+  transform: translateZ(0px);
+  transition: all 0.5s ease;
+}
+
+.book p::before {
+  content: " ";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 3px;
+  background: rgba(0, 0, 0, 0.1);
+  transform: rotateX(90deg) translateZ(150px) translateX(0px);
+}
+
+.book p::after {
+  content: " ";
+  position: absolute;
+  top: 2px;
+  left: -10px;
+  width: 19px;
+  height: 97%;
+  transform: rotateY(-90deg) translateZ(0px);
+  background: linear-gradient(to right, #cccccc, #ffffff);
+  opacity: 0; /* Visible by default */
+  transition: opacity 0.5s ease;
+}
+
+.book p:hover {
+  transform: rotateY(0deg); /* Rotate to face forward on hover */
+}
+
+.book p:hover img {
+  transform: translateZ(20px);
+}
+
+.book p:hover::after {
+  opacity: 1; /* Hide spine on hover */
+}

@@ -3,23 +3,27 @@ title: What I'm Up To Now
 description: What I'm up to these days.
 slug: now
 ---
-_updated July 2024_
 
-I am in Denver for the summer!
+_updated December 2024_
 
-<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
-<div class="elfsight-app-9302016d-ba42-4568-9fa2-1b562bdec404" data-elfsight-app-lazy></div>
+I recently moved to Brooklyn, NY, and am doing these things:
 
-## Vocations
-I'm building AI and data-management systems through my LLC [Harmonic Software](https://harmonic.so/). My current work includes helping [Sana Labs](https://sana.ai/) design a transactional agent framework and helping the Josh Bersin Company build the HR assistant [Galileo](https://sanalabs.com/galileo).
+## Independent AI Research
 
-## Research interests
-I'm planning to rejuvenate my [human programming](/human-programming) projects for the AI age - could I design a reflexive and human-controllable language for directing complex AI behavior?
+I soon start a batch at [Recurse Center](http://www.recurse.com), where I plan to create self-organizing neurosymbolic systems (self-organizing codebases). In particular I will apply the principles underlying [Methodable](https://a.methodable.com), a tool for deep human reflection and planning, to the domain of AI reflection and planning. I aim to produce a foundational system that can adaptively solve a wide variety of tasks in programming and other domains, while developing itself gradually over time.
 
-Accordingly I am learning about LLMs, AI alignment / interpretability, multi-agent programming systems and neurosymbolic programming.
+I will explore how such systems might effectively internalize the values of a particular human collaborator, starting with myself. I believe that current computer systems are very bad at understanding and operationalizing deep human values (think of "the algorithm", etc.), and I believe that progress in the elicitation and representation of human values is crucial for AI-human alignment.
 
-## Other Foci
-- Connecting with people
-- Making use of Denver's nature - climbing, backpacking, running
-- Writing, such as on this website and [Human Programming](https://humanprogramming.substack.com)
-- Cultivating a positive attitude
+(I may also try and solve the arc prize)
+
+## Focusing on Health
+
+I am currently recovering from some post-viral fatigue issues, and am prioritizing my sleep, diet, and health learning.
+
+## "Putting myself out there"
+
+I aim to "put myself out there" more, by writing online, reaching out to people new and old, attending events, and the like. Feel free to say hi! Especially if you're in NY.
+
+## Software Consulting
+
+I continue to spend a small amount of time doing software consulting through my consultancy [Harmonic Software](https://harmonic.so/).

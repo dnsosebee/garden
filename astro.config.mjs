@@ -106,10 +106,10 @@ export default defineConfig({
           label: "Sneaky Town",
           link: "/sneaky-town/",
         },
-        {
-          label: "Bookshelf",
-          link: "/bookshelf/",
-        },
+        // {
+        //   label: "Bookshelf",
+        //   link: "/bookshelf/",
+        // },
         {
           label: "Journal",
           collapsed: true,
@@ -140,11 +140,11 @@ export default defineConfig({
           link: "https://harmonic.so",
           attrs: { target: "_blank", style: "font-style: italic" },
         },
-        {
-          label: "amps.run ↗",
-          link: "https://amps.run",
-          attrs: { target: "_blank", style: "font-style: italic" },
-        },
+        // {
+        //   label: "amps.run ↗",
+        //   link: "https://amps.run",
+        //   attrs: { target: "_blank", style: "font-style: italic" },
+        // },
       ],
       lastUpdated: true,
       favicon: "/favicon.ico",
