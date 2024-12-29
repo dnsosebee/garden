@@ -68,7 +68,7 @@ I'm a software engineer who designs and builds AI applications. For work inquiri
 </div>
 
 - [🪴 What I'm Up To Now](/now)
-- [🪴 My Bookshelf](/bookshelf)
+<!-- - [🪴 My Bookshelf](/bookshelf) -->
 - [🪴 Sneaky Town](/sneaky-town) - a board game I'm designing.
 
 ### Journal entries
