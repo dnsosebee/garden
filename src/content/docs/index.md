@@ -42,18 +42,15 @@ template: doc
 
 </style>
 
-<div style="background-color: rgb(127,127,127,0.1); padding: 10px; border-radius: 10px;">
+<div style="background-color: rgb(127,127,127,0.1); padding: 12px; border-radius: 12px;">
 
-<figure style="padding-bottom: 4px; display: flex; flex-direction: column; align-items: center;">
-  <a href="/art/doug-addicts-cover">
-    <img src="/assets/doug-adicts-banner.png"/>
-  </a>
-  <!-- <figcaption> Some of my art <figcaption> -->
-</figure>
+<!-- ### About me -->
 
-<div class="text-lg">
+![Some art I made, the doug addicts album cover](/assets/doug-addicts-banner.png)
 
-I'm a software engineer exploring deep learning and automated creativity. I also design and build AI applications through my consultancy [Harmonic Software](https://harmonic.so).
+<div class="text-lg py-4">
+
+I'm a software engineer, currently exploring deep learning and automated creativity. I also design and build AI applications through my consultancy [Harmonic Software](https://harmonic.so).
 
 </div>
 
@@ -63,10 +60,16 @@ I'm a software engineer exploring deep learning and automated creativity. I also
 
 <div>
 
-<figure style="display: flex; flex-direction:column; align-items: center">
-<img src="/assets/photos/profile.jpg" alt="Daniel Sosebee's headshot" class=""  width="300" height="auto" />
-<!-- <figcaption>My face</> -->
-</figure>
+<!-- <figure style="display: flex; flex-direction:column; align-items: center">
+<img src="" alt="Daniel Sosebee's headshot" class=""  width="300" height="auto" />
+<figcaption>My face</>
+</figure> -->
+
+<div style="width: 300px;">
+
+![](/assets/photos/profile.jpg)
+
+</div>
 
 </div>
 
