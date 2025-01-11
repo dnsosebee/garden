@@ -23,6 +23,10 @@ template: doc
 
 <!-- <img src="/assets/photos/profile.jpg" alt="Daniel Sosebee's headshot" class="rounded-xl"  width="200" height="200" /> -->
 
+<a href="/art/doug-addicts-cover">
+  <img src="/assets/doug-adicts-banner.png"/>
+</a>
+
 I'm a software engineer who designs and builds AI applications. For work inquiries visit my consulting agency [Harmonic Software](https://harmonic.so).
 
 ##### Contact
@@ -52,7 +56,11 @@ I'm a software engineer who designs and builds AI applications. For work inquiri
 
 <div class="ratio-box">
 
+<a href="art/wave-plane-one">
+
 !['Wave Plane One' art piece by Daniel Sosebee](../../../public/assets/art/wave-plane-one.jpg)
+
+</a>
 
 </div>
 
@@ -74,7 +82,11 @@ I'm a software engineer who designs and builds AI applications. For work inquiri
 
 <div class="ratio-box">
 
+<a href="art/glen-canyon-journal">
+
 !['Glen Canyon Journal' art piece by Daniel Sosebee](../../../public/assets/art/glen-canyon-journal.jpg)
+
+</a>
 
 </div>
 
