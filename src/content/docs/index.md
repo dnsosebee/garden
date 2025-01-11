@@ -19,15 +19,58 @@ template: doc
     height: auto; /* Maintain the aspect ratio of the image */
     object-fit: cover; /* Ensure the image covers the box */
 }
+
+/* First define the container context */
+.pfp-container {
+  container-type: inline-size;
+}
+
+/* Default state is not flex */
+.pfp-inner-div {
+  display: block;
+}
+
+/* Switch to flex when container is wide enough */
+@container (min-width: 600px) {
+  .pfp-inner-div {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
 </style>
 
-<!-- <img src="/assets/photos/profile.jpg" alt="Daniel Sosebee's headshot" class="rounded-xl"  width="200" height="200" /> -->
+<div style="background-color: rgb(127,127,127,0.1); padding: 10px; border-radius: 10px;">
 
-<a href="/art/doug-addicts-cover">
-  <img src="/assets/doug-adicts-banner.png"/>
-</a>
+<figure style="padding-bottom: 4px; display: flex; flex-direction: column; align-items: center;">
+  <a href="/art/doug-addicts-cover">
+    <img src="/assets/doug-adicts-banner.png"/>
+  </a>
+  <!-- <figcaption> Some of my art <figcaption> -->
+</figure>
 
-I'm a software engineer who designs and builds AI applications. For work inquiries visit my consulting agency [Harmonic Software](https://harmonic.so).
+<div class="text-lg">
+
+I'm a software engineer exploring deep learning and automated creativity. I also design and build AI applications through my consultancy [Harmonic Software](https://harmonic.so).
+
+</div>
+
+<div class="pfp-container">
+
+<div class="pfp-inner-div">
+
+<div>
+
+<figure style="display: flex; flex-direction:column; align-items: center">
+<img src="/assets/photos/profile.jpg" alt="Daniel Sosebee's headshot" class=""  width="300" height="auto" />
+<!-- <figcaption>My face</> -->
+</figure>
+
+</div>
+
+<div>
 
 ##### Contact
 
@@ -36,6 +79,13 @@ I'm a software engineer who designs and builds AI applications. For work inquiri
 - Github: <a href="https://github.com/dnsosebee" target="_blank">@dnsosebee</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/danielsosebee/" target="_blank">Daniel Sosebee</a>
 - <a href="https://www.admonymous.co/dnsosebee" target="_blank">Leave me anonymous feedback</a>
+
+</div>
+
+</div>
+</div>
+
+</div>
 
 ### Programming & logic projects
 
