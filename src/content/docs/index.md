@@ -48,7 +48,7 @@ template: doc
 
 ![Some art I made, the doug addicts album cover](/assets/doug-addicts-banner.png)
 
-<div class="text-lg py-4">
+<div class="text-lg py-2">
 
 I'm a software engineer, currently exploring deep learning and automated creativity. I also design and build AI applications through my consultancy [Harmonic Software](https://harmonic.so).
 
@@ -67,7 +67,7 @@ I'm a software engineer, currently exploring deep learning and automated creativ
 
 <div style="width: 300px;">
 
-![](/assets/photos/profile.jpg)
+![My headshot](/assets/photos/headshot-at-the-met.jpg)
 
 </div>
 
