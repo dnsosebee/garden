@@ -51,6 +51,10 @@ export default defineConfig({
               link: "/art/",
             },
             {
+              label: "Foothills",
+              link: "/art/foothills/",
+            },
+            {
               label: "Pottery Batch One",
               link: "/art/pottery-batch-one/",
             },
