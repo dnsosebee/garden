@@ -51,6 +51,10 @@ export default defineConfig({
               link: "/art/",
             },
             {
+              label: "Balanced Mind",
+              link: "/art/balanced-mind/",
+            },
+            {
               label: "Foothills",
               link: "/art/foothills/",
             },
