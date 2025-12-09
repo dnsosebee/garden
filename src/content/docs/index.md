@@ -46,7 +46,7 @@ template: doc
 
 <!-- ### About me -->
 
-![six Sneaky Town boards shot from overhead](/assets/photos/sneakies.jpeg)
+![six Sneaky Town boards shot from overhead](/assets/photos/sneakies.jpg)
 
 <div class="text-lg py-2">
 
@@ -67,7 +67,7 @@ I'm a coder who also makes the board game [Sneaky Town](/sneaky-town) and [piano
 
 <div style="width: 200px;">
 
-![My headshot](/assets/photos/snoqualmie-selfie.jpeg)
+![My headshot](/assets/photos/snoqualmie-selfie.jpg)
 
 </div>
 
