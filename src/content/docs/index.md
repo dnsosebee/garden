@@ -50,7 +50,7 @@ template: doc
 
 <div class="text-lg py-2">
 
-I'm a coder who also makes the board game [Sneaky Town](/sneaky-town) and [piano compositions](/music/#upcoming-album). I design and build AI applications through my consultancy [Harmonic Software](https://harmonic.so).
+I'm a coder who also makes the board game <a href="https://sneakytown.substack.com" target="_blank">Sneaky Town</a> and [piano compositions](/music/#upcoming-album). I design and build AI applications through my consultancy <a href="https://harmonic.so" target="_blank">Harmonic Software</a>. Here's my <a href="https://blog.danielsosebee.com" target="_blank">blog</a>.
 
 </div>
 
@@ -129,7 +129,7 @@ I'm a coder who also makes the board game [Sneaky Town](/sneaky-town) and [piano
 </div>
 
 - [🪴 What I'm Up To Now](/now) <!-- - [🪴 My Bookshelf](/bookshelf) -->
-- [🪴 Sneaky Town](/sneaky-town) - a board game I'm designing.
+- [🪴 Sneaky Town](https://sneakytown.substack.com) - a board game I'm designing.
 
 ### Journal entries
 

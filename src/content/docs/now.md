@@ -4,7 +4,7 @@ description: What I'm up to these days.
 slug: now
 ---
 
-_updated December 2024_
+_updated December 2024_ - this is out of date I'm actually in Seattle...
 
 I recently moved to Brooklyn, NY, and am doing these things:
 

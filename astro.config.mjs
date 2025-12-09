@@ -1,7 +1,6 @@
 import starlight from "@astrojs/starlight";
-import { defineConfig } from "astro/config";
-
 import tailwind from "@astrojs/tailwind";
+import { defineConfig } from "astro/config";
 
 // https://astro.build/config
 export default defineConfig({
@@ -23,6 +22,11 @@ export default defineConfig({
         linkedin: "https://www.linkedin.com/in/danielsosebee/",
       },
       sidebar: [
+        {
+          label: "Blog ↗",
+          link: "https://blog.danielsosebee.com",
+          attrs: { target: "_blank", style: "font-style: italic" },
+        },
         {
           label: "What I'm Up To Now",
           link: "/now/",
@@ -111,8 +115,9 @@ export default defineConfig({
         // },
 
         {
-          label: "Sneaky Town",
-          link: "/sneaky-town/",
+          label: "Sneaky Town ↗",
+          link: "https://sneakytown.substack.com",
+          attrs: { target: "_blank", style: "font-style: italic" },
         },
         // {
         //   label: "Bookshelf",
