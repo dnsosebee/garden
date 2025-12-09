@@ -46,11 +46,11 @@ template: doc
 
 <!-- ### About me -->
 
-![Some art I made, the doug addicts album cover](/assets/doug-addicts-banner.png)
+![six Sneaky Town boards shot from overhead](/assets/photos/sneakies.jpeg)
 
 <div class="text-lg py-2">
 
-I'm a software engineer, currently exploring deep learning and automated creativity. I also design and build AI applications through my consultancy [Harmonic Software](https://harmonic.so).
+I'm a coder who also makes the board game [Sneaky Town](/sneaky-town) and [piano compositions](/music/#upcoming-album). I design and build AI applications through my consultancy [Harmonic Software](https://harmonic.so).
 
 </div>
 
@@ -65,9 +65,9 @@ I'm a software engineer, currently exploring deep learning and automated creativ
 <figcaption>My face</>
 </figure> -->
 
-<div style="width: 300px;">
+<div style="width: 200px;">
 
-![My headshot](/assets/photos/headshot-at-the-met.jpg)
+![My headshot](/assets/photos/snoqualmie-selfie.jpeg)
 
 </div>
 
@@ -81,7 +81,7 @@ I'm a software engineer, currently exploring deep learning and automated creativ
 - Twitter: <a href="https://twitter.com/dnsosebee" target="_blank">@dnsosebee</a>
 - Github: <a href="https://github.com/dnsosebee" target="_blank">@dnsosebee</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/danielsosebee/" target="_blank">Daniel Sosebee</a>
-- <a href="https://www.admonymous.co/dnsosebee" target="_blank">Leave me anonymous feedback</a>
+<!-- - <a href="https://www.admonymous.co/dnsosebee" target="_blank">Leave me anonymous feedback</a> -->
 
 </div>
 
