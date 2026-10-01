@@ -4,26 +4,27 @@ description: What I'm up to these days.
 slug: now
 ---
 
-_updated December 2024_ - this is out of date I'm actually in Seattle...
+_updated September 2026_
 
-I recently moved to Brooklyn, NY, and am doing these things:
+I'm around SF, doing the following:
 
-## Independent AI Research
+## Hanging at The SF Commons
 
-I soon start a batch at [Recurse Center](http://www.recurse.com), where I plan to create self-organizing neurosymbolic systems (self-organizing codebases). In particular I will apply the principles underlying [Methodable](https://a.methodable.com), a tool for deep human reflection and planning, to the domain of AI reflection and planning. I aim to produce a foundational system that can adaptively solve a wide variety of tasks in programming and other domains, while developing itself gradually over time.
+... if you're there, say hi!
 
-I will explore how such systems might effectively internalize the values of a particular human collaborator, starting with myself. I believe that current computer systems are very bad at understanding and operationalizing deep human values (think of "the algorithm", etc.), and I believe that progress in the elicitation and representation of human values is crucial for AI-human alignment.
+## AI Safety Research (And Other Career Explorations)
 
-(I may also try and solve the arc prize)
-
-## Focusing on Health
-
-I am currently recovering from some post-viral fatigue issues, and am prioritizing my sleep, diet, and health learning.
-
-## "Putting myself out there"
-
-I aim to "put myself out there" more, by writing online, reaching out to people new and old, attending events, and the like. Feel free to say hi! Especially if you're in NY.
+I've applied to AI-safety fellowships and hope to speak with more people in the space, to read and write more, and to work on adjacent independent projects (such as my ["ARC Prize for personal-values alignment"](https://blog.danielsosebee.com/p/maybe-we-should-have-an-arc-prize) idea). In the process I hope to better understand the subfields and where I might fit in.
 
 ## Software Consulting
 
-I continue to spend a small amount of time doing software consulting through my consultancy [Harmonic Software](https://harmonic.so/).
+I continue to act as a software consultant through my consultancy [Harmonic Software](https://harmonic.so/), primarily supporting The Josh Bersin Company and their [Galileo](https://getgalileo.ai/) suite of AI products. I aim to take on new projects as well, perhaps including an online version of my board game [Sneaky Town](https://sneakytown.substack.com/).
+
+## Various Personal Projects
+
+- I am finishing up my second piano album (just need to make the art).
+- I am also hoping to host Sneaky Town tournaments and to get more regular play-testing to happen.
+
+Plus ongoing things: climbing, trail running, and (hopefully) deepening my meditation practice.
+
+---
