@@ -28,12 +28,18 @@ export default defineConfig({
           attrs: { target: "_blank", style: "font-style: italic" },
         },
         {
-          label: "What I'm Up To Now",
-          link: "/now/",
+          label: "harmonic.so ↗",
+          link: "https://harmonic.so",
+          attrs: { target: "_blank", style: "font-style: italic" },
         },
         {
-          label: "Human Programming",
-          link: "/human-programming/",
+          label: "Sneaky Town ↗",
+          link: "https://sneakytown.substack.com",
+          attrs: { target: "_blank", style: "font-style: italic" },
+        },
+        {
+          label: "What I'm Up To Now",
+          link: "/now/",
         },
         {
           label: "Piano & Electronic Music",
@@ -113,12 +119,6 @@ export default defineConfig({
         //     },
         //   ],
         // },
-
-        {
-          label: "Sneaky Town ↗",
-          link: "https://sneakytown.substack.com",
-          attrs: { target: "_blank", style: "font-style: italic" },
-        },
         // {
         //   label: "Bookshelf",
         //   link: "/bookshelf/",
@@ -149,9 +149,8 @@ export default defineConfig({
         //   },
         // },
         {
-          label: "harmonic.so ↗",
-          link: "https://harmonic.so",
-          attrs: { target: "_blank", style: "font-style: italic" },
+          label: "Human Programming",
+          link: "/human-programming/",
         },
         // {
         //   label: "amps.run ↗",
