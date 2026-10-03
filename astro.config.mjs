@@ -23,23 +23,13 @@ export default defineConfig({
       },
       sidebar: [
         {
+          label: "What I'm Up To Now",
+          link: "/now/",
+        },
+        {
           label: "Blog ↗",
           link: "https://blog.danielsosebee.com",
           attrs: { target: "_blank", style: "font-style: italic" },
-        },
-        {
-          label: "harmonic.so ↗",
-          link: "https://harmonic.so",
-          attrs: { target: "_blank", style: "font-style: italic" },
-        },
-        {
-          label: "Sneaky Town ↗",
-          link: "https://sneakytown.substack.com",
-          attrs: { target: "_blank", style: "font-style: italic" },
-        },
-        {
-          label: "What I'm Up To Now",
-          link: "/now/",
         },
         {
           label: "Piano & Electronic Music",
@@ -151,6 +141,16 @@ export default defineConfig({
         {
           label: "Human Programming",
           link: "/human-programming/",
+        },
+        {
+          label: "Sneaky Town ↗",
+          link: "https://sneakytown.substack.com",
+          attrs: { target: "_blank", style: "font-style: italic" },
+        },
+        {
+          label: "harmonic.so ↗",
+          link: "https://harmonic.so",
+          attrs: { target: "_blank", style: "font-style: italic" },
         },
         // {
         //   label: "amps.run ↗",

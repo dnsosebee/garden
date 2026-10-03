@@ -6,25 +6,25 @@ slug: now
 
 _updated September 2026_
 
-I'm around SF, doing the following:
-
-#### Hanging at The SF Commons
-
-... if you're there, say hi!
-
-#### AI Safety Research (And Other Career Explorations)
-
-I've applied to AI-safety fellowships and hope to speak with more people in the space, to read and write more, and to work on adjacent independent projects (such as my ["ARC Prize for personal-values alignment"](https://blog.danielsosebee.com/p/maybe-we-should-have-an-arc-prize) idea). In the process I hope to better understand the subfields and where I might fit in. This is part of a larger process to figure out my next career moves.
+I'm in the SF area, doing the following:
 
 #### Software Consulting
 
-I continue to act as a software consultant through my consultancy [Harmonic Software](https://harmonic.so/), primarily supporting The Josh Bersin Company and their [Galileo](https://getgalileo.ai/) suite of AI products. I aim to take on new projects as well, perhaps including an online version of my board game [Sneaky Town](https://sneakytown.substack.com/).
+I continue to design and build AI products through my consultancy [Harmonic Software](https://harmonic.so/).
+
+#### Career Exploration
+
+I'm exploring new full-time opportunities.
+
+On one hand I'm considering entering the research world (academic or otherwise), particularly AI safety/alignment research, and even-more-particularly _pluralistic_-alignment research -- I would love to research and develop products that help people better interface their values with AI systems, as I've written about in my [Guardian Angels review](https://blog.danielsosebee.com/p/on-gwerns-guardian-angels) and my ["ARC Prize for personal-values alignment"](https://blog.danielsosebee.com/p/maybe-we-should-have-an-arc-prize) piece.
+
+At the same time I'm interested in CTO/founding-engineer/product-engineer positions that align with my above interests - I think I might enjoy being "close to the research" while leveraging my existing talents directly.
+
+Overall I aim to do important, high-autonomy work with smart and thoughtful people. Feel free to reach out if you'd like to chat!
 
 #### Various Personal Projects
 
-- I am finishing up my second piano album (just need to make the art).
-- I am also hoping to host Sneaky Town tournaments and to get more regular play-testing to happen.
+- I am finishing up my second piano album (just need to make the art!) (first single [here](https://samply.app/p/8szMwZOBSEvZHRGY42Bl?token=0f1e04b1-e053-46ae-95ba-82f02444d685&si=flnCX80RhIcGNgrPTelXjdKx90x1)).
+- I continue to play-test [Sneaky Town](https://sneakytown.substack.com/).
 
-Plus ongoing things: climbing, trail running, and (hopefully) deepening my meditation practice.
-
----
+Plus ongoing things: climbing, trail running, and (hopefully) deepening my meditation practice. Plus hanging at the SF Commons - if you're there, say hi!

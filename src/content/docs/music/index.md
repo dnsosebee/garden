@@ -8,7 +8,7 @@ Artist pages: [Bandcamp](https://danielsosebee.bandcamp.com) | [YouTube](https:/
 
 ## Upcoming album
 
-[Listen to the first single, _Eternal_](https://samply.app/p/8szMwZOBSEvZHRGY42Bl?si=flnCX80RhIcGNgrPTelXjdKx90x1).
+[Listen to the first single, _Eternal_](https://samply.app/p/8szMwZOBSEvZHRGY42Bl?token=0f1e04b1-e053-46ae-95ba-82f02444d685&si=flnCX80RhIcGNgrPTelXjdKx90x1).
 
 ## [_Still Crystal Entrances (2022)_](https://danielsosebee.bandcamp.com/album/still-crystal-entrances)
 

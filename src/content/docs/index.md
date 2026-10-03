@@ -50,7 +50,9 @@ template: doc
 
 <div class="text-lg py-2">
 
-Hi, I'm Daniel! I design and build AI applications through my consultancy <a href="https://harmonic.so" target="_blank">Harmonic Software</a>. My other projects include the board game <a href="https://sneakytown.substack.com" target="_blank">Sneaky Town</a>, [piano compositions](/music/#upcoming-album), and other odds and ends you can find on this site. I also write a <a href="https://blog.danielsosebee.com" target="_blank">blog</a>.
+Hi, I'm Daniel! I'm an AI/product engineer and founder of the consultancy <a href="https://harmonic.so" target="_blank">Harmonic Software</a>. My interests include: human-computer interaction and web tools, AI safety, self-regulating systems, and tools for personal-values alignment.
+
+Other projects include the board game <a href="https://sneakytown.substack.com" target="_blank">Sneaky Town</a>, my [piano compositions](/music/#upcoming-album), and my <a href="https://blog.danielsosebee.com" target="_blank">blog</a>, on which I've written 30+ posts on the above topics.
 
 </div>
 
